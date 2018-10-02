@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="canvasTest:jar">
+    <output-path>$PROJECT_DIR$/../canvasTest/out/artifacts/canvasTest_jar</output-path>
+    <root id="archive" name="canvasTest.jar">
+      <element id="module-output" name="canvasTest" />
+    </root>
+  </artifact>
+</component>
